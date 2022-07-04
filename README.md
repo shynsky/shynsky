@@ -1,10 +1,8 @@
 ### Hi there 👋, my name is Marek
 #### I'm a generalist with 10+ years of active exp
-![I'm a generalist with 10+ years of active exp](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+Front-end dev | Manager | Founder
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: REACT / JS / NEXT / HTML / CSS
+Skills: REACT / JS / NEXT 
 
 - 🔭 I’m currently working on video generator 
 - 📫 How to reach me: LinkedIn 
