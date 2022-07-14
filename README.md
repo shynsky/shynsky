@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Marek
-#### I'm a generalist with 10+ years of active exp
+#### I'm a generalist with 15+ years of active exp, open mind and neverending urge to learn
 Front-end dev | Manager | Founder
 
 Skills: REACT / JS / NEXT 
